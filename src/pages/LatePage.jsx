@@ -12,9 +12,9 @@ const LatePage = () => {
 export default LatePage;
 
 const Container = styled.div`
-  width: 1055px;
+  width: 1100px;
   background-color: #048258;
-  margin-left: 480px;
+  margin-left: 80px;
   padding: 119px 200px;
   h2 {
     color: aliceblue;

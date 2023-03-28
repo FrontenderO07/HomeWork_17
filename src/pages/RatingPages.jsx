@@ -30,23 +30,25 @@ const Container = styled.div`
   margin-left: 500px;
   padding: 40px;
   border: 2px solid black;
-  background-color: #702e60;
+  background-color: #8f6885a0;
   h3 {
     color: white;
     margin-bottom: 30px;
+    font-weight: 300;
     font-size: 40px;
   }
   p {
     color: azure;
     font-size: 20px;
     margin-bottom: 30px;
+    font-weight: 500;
   }
 `;
 
 const StyledButton = styled.button`
   border-radius: 20px;
   color: #eee7e7;
-  background-color: #047a55;
+  background-color: teal;
   padding: 15px 25px;
   font-size: 20px;
   border: none;

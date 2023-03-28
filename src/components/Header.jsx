@@ -49,7 +49,7 @@ export default Header;
 
 const Container = styled.header`
   display: flex;
-  background-color: #052ea9;
+  background-color: #364e94;
   padding: 30px;
   width: 100%;
   nav {

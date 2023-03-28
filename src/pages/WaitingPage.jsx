@@ -16,7 +16,7 @@ const Container = styled.div`
 
   background-color: #048258;
   padding: 20px;
-  margin-left: 480px;
+  margin-left: 80px;
   padding: 119px 200px;
   h2 {
     color: aliceblue;

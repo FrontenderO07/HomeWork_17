@@ -61,15 +61,15 @@ const Container = styled.div`
     font-size: 20px;
     font-weight: 500;
   }
-  p{
-color: black;
-margin-bottom: 30px;
+  p {
+    color: black;
+    margin-bottom: 30px;
   }
 `;
 const StyledButton = styled.button`
   border-radius: 20px;
   color: #eee7e7;
-  background-color: #047a55;
+  background-color: teal;
   padding: 15px 25px;
   font-size: 20px;
   border: none;

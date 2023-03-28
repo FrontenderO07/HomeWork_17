@@ -39,12 +39,12 @@ const Container = styled.div`
   position: fixed;
   top: 0;
   left: 0;
-  width: 482px;
+  width: 250px;
   background-color: #a19e9b;
   height: 750px;
   h1 {
     color: #630663;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 800;
     margin-left: 160px;
   }
@@ -54,14 +54,14 @@ const Block = styled.div`
   padding: 0px 20px;
 
   ul {
-    background-color: white;
+    background-color: #827878;
     list-style: none;
     margin-top: 100px;
     padding: 50px;
   }
   li {
     margin-top: 30px;
-    font-size: 50px;
+    font-size: 20px;
     width: 300px;
   }
 `;

@@ -62,14 +62,13 @@ const Modal = styled.div`
   top: 20%;
   left: 35%;
   width: 700px;
-  background-color: #945185;
+  background-color: #9a6e91;
+  color: #fff;
   h3 {
-    color: #182835;
     font-size: 30px;
     margin-bottom: 20px;
   }
   p {
-    color: #182835;
     font-size: 20px;
     margin-bottom: 20px;
   }
@@ -104,7 +103,7 @@ const StyledButton = styled.button`
   border-radius: 20px;
   width: 200px;
   color: #eee7e7;
-  background-color: #047a55;
+  background-color: teal;
   padding: 15px 25px;
   font-size: 20px;
   border: none;
@@ -127,7 +126,7 @@ const CloseModalButton = styled.button`
   border-radius: 20px;
   width: 200px;
   color: #eee7e7;
-  background-color: #047a55;
+  background-color: teal;
   padding: 15px 25px;
   font-size: 20px;
   margin-left: 400px;

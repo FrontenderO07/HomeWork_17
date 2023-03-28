@@ -42,7 +42,7 @@ const MaterialDeatails = ({ materials }) => {
 export default MaterialDeatails;
 
 const Layoutcontainer = styled.div`
-  background-color: #55e955;
+  background-color: teal;
   padding: 20px;
 `;
 const Container = styled.div`

@@ -32,7 +32,7 @@ const Container = styled.div`
   margin-left: 300px;
   padding: 40px;
   border: 2px solid black;
-  background-color: #702e60;
+  background-color: #926c88;
   h3 {
     color: white;
     margin-bottom: 30px;
@@ -47,7 +47,7 @@ const Container = styled.div`
 const StyledButton = styled.button`
   border-radius: 20px;
   color: #eee7e7;
-  background-color: #047a55;
+  background-color: teal;
   padding: 15px 25px;
   font-size: 20px;
   border: none;
